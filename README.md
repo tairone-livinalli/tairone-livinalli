@@ -10,6 +10,3 @@ I'm aiming to become a software architect.
 ## :wrench: Technologies
 
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)![TypeScript](https://img.icons8.com/color/30/typescript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Angular](https://img.icons8.com/color/30/angularjs.png)![Java](https://img.icons8.com/color/30/java.png)![Spring](https://img.icons8.com/color/30/000000/spring-logo.png)![PHP](https://img.icons8.com/officel/30/000000/php-logo.png)![Laravel](https://img.icons8.com/fluent/30/000000/laravel.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)![PostgreSQL](https://img.icons8.com/color/30/000000/postgreesql.png)![MySQL](https://img.icons8.com/color/30/000000/mysql-logo.png)![Firebase](https://img.icons8.com/color/30/000000/firebase.png)
-
-## :zap: GitHub Stats
-![Tairone's github stats](https://github-readme-stats.vercel.app/api?username=tairone-livinalli&count_private=true&show_icons=true&theme=onedark) ![Tairone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tairone-livinalli&layout=compact&hide=css,html&theme=onedark&langs_count=5)
